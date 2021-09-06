@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: b7e282156b21c7042b2b39f64d3cd6df
+timeCreated: 1503179874
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: LeftHand
+    100002: LeftHandIndex1
+    100004: LeftHandIndex2
+    100006: LeftHandIndex3
+    100008: LeftHandIndex4
+    100010: LeftHandMiddle1
+    100012: LeftHandMiddle2
+    100014: LeftHandMiddle3
+    100016: LeftHandMiddle4
+    100018: LeftHandPinky1
+    100020: LeftHandPinky2
+    100022: LeftHandPinky3
+    100024: LeftHandPinky4
+    100026: LeftHandRing1
+    100028: LeftHandRing2
+    100030: LeftHandRing3
+    100032: LeftHandRing4
+    100034: LeftHandThumb1
+    100036: LeftHandThumb2
+    100038: LeftHandThumb3
+    100040: LeftHandThumb4
+    100042: Low_Poly_Had002
+    100044: Low_Poly_Had003
+    100046: mixamorig:RightHandThumb1
+    100048: mixamorig:RightHandThumb2
+    100050: mixamorig:RightHandThumb3
+    100052: mixamorig:RightHandThumb4
+    100054: //RootNode
+    100056: RightHand
+    100058: RightHandIndex1
+    100060: RightHandIndex2
+    100062: RightHandIndex3
+    100064: RightHandIndex4
+    100066: RightHandMiddle1
+    100068: RightHandMiddle2
+    100070: RightHandMiddle3
+    100072: RightHandMiddle4
+    100074: RightHandPinky1
+    100076: RightHandPinky2
+    100078: RightHandPinky3
+    100080: RightHandPinky4
+    100082: RightHandRing1
+    100084: RightHandRing2
+    100086: RightHandRing3
+    100088: RightHandRing4
+    100090: Watch
+    100092: Watch001
+    100094: Left Hand
+    100096: Left Hand001
+    100098: mixamorig:LeftHand
+    100100: mixamorig:LeftHand001
+    100102: mixamorig:LeftHandIndex005
+    100104: mixamorig:LeftHandIndex006
+    100106: mixamorig:LeftHandIndex007
+    100108: mixamorig:LeftHandIndex008
+    100110: mixamorig:LeftHandIndex1
+    100112: mixamorig:LeftHandIndex2
+    100114: mixamorig:LeftHandIndex3
+    100116: mixamorig:LeftHandIndex4
+    100118: mixamorig:LeftHandMiddle005
+    100120: mixamorig:LeftHandMiddle006
+    100122: mixamorig:LeftHandMiddle007
+    100124: mixamorig:LeftHandMiddle008
+    100126: mixamorig:LeftHandMiddle1
+    100128: mixamorig:LeftHandMiddle2
+    100130: mixamorig:LeftHandMiddle3
+    100132: mixamorig:LeftHandMiddle4
+    100134: mixamorig:LeftHandPinky005
+    100136: mixamorig:LeftHandPinky006
+    100138: mixamorig:LeftHandPinky007
+    100140: mixamorig:LeftHandPinky008
+    100142: mixamorig:LeftHandPinky1
+    100144: mixamorig:LeftHandPinky2
+    100146: mixamorig:LeftHandPinky3
+    100148: mixamorig:LeftHandPinky4
+    100150: mixamorig:LeftHandRing005
+    100152: mixamorig:LeftHandRing006
+    100154: mixamorig:LeftHandRing007
+    100156: mixamorig:LeftHandRing008
+    100158: mixamorig:LeftHandRing1
+    100160: mixamorig:LeftHandRing2
+    100162: mixamorig:LeftHandRing3
+    100164: mixamorig:LeftHandRing4
+    100166: mixamorig:LeftHandThumb005
+    100168: mixamorig:LeftHandThumb006
+    100170: mixamorig:LeftHandThumb007
+    100172: mixamorig:LeftHandThumb008
+    100174: mixamorig:LeftHandThumb1
+    100176: mixamorig:LeftHandThumb2
+    100178: mixamorig:LeftHandThumb3
+    100180: mixamorig:LeftHandThumb4
+    100182: Left Watch
+    100184: Low_Poly_Had
+    100186: mixamorig:RightHand
+    100188: mixamorig:RightHandIndex1
+    100190: mixamorig:RightHandIndex2
+    100192: mixamorig:RightHandIndex3
+    100194: mixamorig:RightHandIndex4
+    100196: mixamorig:RightHandMiddle1
+    100198: mixamorig:RightHandMiddle2
+    100200: mixamorig:RightHandMiddle3
+    100202: mixamorig:RightHandMiddle4
+    100204: mixamorig:RightHandPinky1
+    100206: mixamorig:RightHandPinky2
+    100208: mixamorig:RightHandPinky3
+    100210: mixamorig:RightHandPinky4
+    100212: mixamorig:RightHandRing1
+    100214: mixamorig:RightHandRing2
+    100216: mixamorig:RightHandRing3
+    100218: mixamorig:RightHandRing4
+    100220: Right Hand
+    100222: Right Watch
+    100224: RightHandThumb1
+    100226: RightHandThumb2
+    100228: RightHandThumb3
+    100230: RightHandThumb4
+    100232: Right Hand001
+    100234: Right Watch001
+    100236: RightHand001
+    100238: RightHandIndex005
+    100240: RightHandIndex006
+    100242: RightHandIndex007
+    100244: RightHandIndex008
+    100246: RightHandMiddle005
+    100248: RightHandMiddle006
+    100250: RightHandMiddle007
+    100252: RightHandMiddle008
+    100254: RightHandPinky005
+    100256: RightHandPinky006
+    100258: RightHandPinky007
+    100260: RightHandPinky008
+    100262: RightHandRing005
+    100264: RightHandRing006
+    100266: RightHandRing007
+    100268: RightHandRing008
+    100270: RightHandThumb005
+    100272: RightHandThumb006
+    100274: RightHandThumb007
+    100276: RightHandThumb008
+    100278: LeftHandIndex
+    100280: LeftHandIndex 1
+    100282: LeftHandIndex 2
+    100284: LeftHandMiddle
+    100286: LeftHandMiddle 1
+    100288: LeftHandMiddle 2
+    100290: LeftHandMiddle 3
+    100292: LeftHandPinky
+    100294: LeftHandPinky 1
+    100296: LeftHandPinky 2
+    100298: LeftHandPinky 3
+    100300: LeftHandRing
+    100302: LeftHandRing 1
+    100304: LeftHandRing 2
+    100306: LeftHandRing 3
+    100308: LeftHandThumb
+    100310: LeftHandThumb 1
+    100312: LeftHandThumb 2
+    100314: LeftHandThumb005
+    400000: LeftHand
+    400002: LeftHandIndex1
+    400004: LeftHandIndex2
+    400006: LeftHandIndex3
+    400008: LeftHandIndex4
+    400010: LeftHandMiddle1
+    400012: LeftHandMiddle2
+    400014: LeftHandMiddle3
+    400016: LeftHandMiddle4
+    400018: LeftHandPinky1
+    400020: LeftHandPinky2
+    400022: LeftHandPinky3
+    400024: LeftHandPinky4
+    400026: LeftHandRing1
+    400028: LeftHandRing2
+    400030: LeftHandRing3
+    400032: LeftHandRing4
+    400034: LeftHandThumb1
+    400036: LeftHandThumb2
+    400038: LeftHandThumb3
+    400040: LeftHandThumb4
+    400042: Low_Poly_Had002
+    400044: Low_Poly_Had003
+    400046: mixamorig:RightHandThumb1
+    400048: mixamorig:RightHandThumb2
+    400050: mixamorig:RightHandThumb3
+    400052: mixamorig:RightHandThumb4
+    400054: //RootNode
+    400056: RightHand
+    400058: RightHandIndex1
+    400060: RightHandIndex2
+    400062: RightHandIndex3
+    400064: RightHandIndex4
+    400066: RightHandMiddle1
+    400068: RightHandMiddle2
+    400070: RightHandMiddle3
+    400072: RightHandMiddle4
+    400074: RightHandPinky1
+    400076: RightHandPinky2
+    400078: RightHandPinky3
+    400080: RightHandPinky4
+    400082: RightHandRing1
+    400084: RightHandRing2
+    400086: RightHandRing3
+    400088: RightHandRing4
+    400090: Watch
+    400092: Watch001
+    400094: Left Hand
+    400096: Left Hand001
+    400098: mixamorig:LeftHand
+    400100: mixamorig:LeftHand001
+    400102: mixamorig:LeftHandIndex005
+    400104: mixamorig:LeftHandIndex006
+    400106: mixamorig:LeftHandIndex007
+    400108: mixamorig:LeftHandIndex008
+    400110: mixamorig:LeftHandIndex1
+    400112: mixamorig:LeftHandIndex2
+    400114: mixamorig:LeftHandIndex3
+    400116: mixamorig:LeftHandIndex4
+    400118: mixamorig:LeftHandMiddle005
+    400120: mixamorig:LeftHandMiddle006
+    400122: mixamorig:LeftHandMiddle007
+    400124: mixamorig:LeftHandMiddle008
+    400126: mixamorig:LeftHandMiddle1
+    400128: mixamorig:LeftHandMiddle2
+    400130: mixamorig:LeftHandMiddle3
+    400132: mixamorig:LeftHandMiddle4
+    400134: mixamorig:LeftHandPinky005
+    400136: mixamorig:LeftHandPinky006
+    400138: mixamorig:LeftHandPinky007
+    400140: mixamorig:LeftHandPinky008
+    400142: mixamorig:LeftHandPinky1
+    400144: mixamorig:LeftHandPinky2
+    400146: mixamorig:LeftHandPinky3
+    400148: mixamorig:LeftHandPinky4
+    400150: mixamorig:LeftHandRing005
+    400152: mixamorig:LeftHandRing006
+    400154: mixamorig:LeftHandRing007
+    400156: mixamorig:LeftHandRing008
+    400158: mixamorig:LeftHandRing1
+    400160: mixamorig:LeftHandRing2
+    400162: mixamorig:LeftHandRing3
+    400164: mixamorig:LeftHandRing4
+    400166: mixamorig:LeftHandThumb005
+    400168: mixamorig:LeftHandThumb006
+    400170: mixamorig:LeftHandThumb007
+    400172: mixamorig:LeftHandThumb008
+    400174: mixamorig:LeftHandThumb1
+    400176: mixamorig:LeftHandThumb2
+    400178: mixamorig:LeftHandThumb3
+    400180: mixamorig:LeftHandThumb4
+    400182: Left Watch
+    400184: Low_Poly_Had
+    400186: mixamorig:RightHand
+    400188: mixamorig:RightHandIndex1
+    400190: mixamorig:RightHandIndex2
+    400192: mixamorig:RightHandIndex3
+    400194: mixamorig:RightHandIndex4
+    400196: mixamorig:RightHandMiddle1
+    400198: mixamorig:RightHandMiddle2
+    400200: mixamorig:RightHandMiddle3
+    400202: mixamorig:RightHandMiddle4
+    400204: mixamorig:RightHandPinky1
+    400206: mixamorig:RightHandPinky2
+    400208: mixamorig:RightHandPinky3
+    400210: mixamorig:RightHandPinky4
+    400212: mixamorig:RightHandRing1
+    400214: mixamorig:RightHandRing2
+    400216: mixamorig:RightHandRing3
+    400218: mixamorig:RightHandRing4
+    400220: Right Hand
+    400222: Right Watch
+    400224: RightHandThumb1
+    400226: RightHandThumb2
+    400228: RightHandThumb3
+    400230: RightHandThumb4
+    400232: Right Hand001
+    400234: Right Watch001
+    400236: RightHand001
+    400238: RightHandIndex005
+    400240: RightHandIndex006
+    400242: RightHandIndex007
+    400244: RightHandIndex008
+    400246: RightHandMiddle005
+    400248: RightHandMiddle006
+    400250: RightHandMiddle007
+    400252: RightHandMiddle008
+    400254: RightHandPinky005
+    400256: RightHandPinky006
+    400258: RightHandPinky007
+    400260: RightHandPinky008
+    400262: RightHandRing005
+    400264: RightHandRing006
+    400266: RightHandRing007
+    400268: RightHandRing008
+    400270: RightHandThumb005
+    400272: RightHandThumb006
+    400274: RightHandThumb007
+    400276: RightHandThumb008
+    400278: LeftHandIndex
+    400280: LeftHandIndex 1
+    400282: LeftHandIndex 2
+    400284: LeftHandMiddle
+    400286: LeftHandMiddle 1
+    400288: LeftHandMiddle 2
+    400290: LeftHandMiddle 3
+    400292: LeftHandPinky
+    400294: LeftHandPinky 1
+    400296: LeftHandPinky 2
+    400298: LeftHandPinky 3
+    400300: LeftHandRing
+    400302: LeftHandRing 1
+    400304: LeftHandRing 2
+    400306: LeftHandRing 3
+    400308: LeftHandThumb
+    400310: LeftHandThumb 1
+    400312: LeftHandThumb 2
+    400314: LeftHandThumb005
+    4300000: Watch001
+    4300002: Low_Poly_Had003
+    4300004: Watch
+    4300006: Low_Poly_Had002
+    4300008: Left Hand001
+    4300010: Left Hand
+    4300012: Right Hand
+    4300014: Low_Poly_Had
+    4300016: Left Watch
+    4300018: Right Watch
+    4300020: Right Hand001
+    4300022: Right Watch001
+    9500000: //RootNode
+    13700000: Low_Poly_Had002
+    13700002: Low_Poly_Had003
+    13700004: Watch
+    13700006: Watch001
+    13700008: Left Hand
+    13700010: Left Hand001
+    13700012: Left Watch
+    13700014: Low_Poly_Had
+    13700016: Right Hand
+    13700018: Right Watch
+    13700020: Right Hand001
+    13700022: Right Watch001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

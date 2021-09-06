@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad7aa8e847d223499a8951811c4374a, type: 3}
+  m_Name: GeometrySource
+  m_EditorClassIdentifier: 
+  processedResources_keys:
+  - {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 2800000, guid: a1b453fc4d8dd454a90698c4cdf57cd3, type: 3}
+  - {fileID: 2800000, guid: 6fbbdd640d7cd3242b18afd9c0714f3f, type: 3}
+  - {fileID: 2800000, guid: 3ad553b4592679441bd3baf775c55223, type: 3}
+  - {fileID: 2800000, guid: 2183cbfef5641f74281b938c2794bbf2, type: 3}
+  - {fileID: 2800000, guid: 058d8c6b7cb0a6048b53023f24338283, type: 3}
+  - {fileID: 2800000, guid: cf327daa2e956a14b822740e6211b100, type: 3}
+  - {fileID: 2800000, guid: ce10ff9d7aebc15499287f3572ad0cdd, type: 3}
+  - {fileID: 2800000, guid: 527d8258e7cbd194db10053f02de73b7, type: 3}
+  - {fileID: 2800000, guid: 4e4efd985321b6345bda879486483a76, type: 3}
+  - {fileID: 2800000, guid: 3ed235afa22371f4894bb516bc676704, type: 3}
+  - {fileID: 2800000, guid: f146518882229b24e85ec0e7237d169a, type: 3}
+  - {fileID: 2800000, guid: fb7e545a9fb18f341a6dd4e8732b1f70, type: 3}
+  - {fileID: 2800000, guid: 202607451a03f1e4e86b4308edb5dd4e, type: 3}
+  - {fileID: 2800000, guid: 9dc270431bc702a40b50f249bf8a084c, type: 3}
+  - {fileID: 2800000, guid: 918cbc1c9cd2d614ab61ca3715285ebd, type: 3}
+  - {fileID: 2800000, guid: 238c7849169ed574e85875ac0c3c4940, type: 3}
+  - {fileID: 2800000, guid: aec2c079f18bd974c9d624ec584a030b, type: 3}
+  - {fileID: 2800000, guid: 62c8084e139068f4e9fdd6bf5db439e2, type: 3}
+  - {fileID: 2800000, guid: 9ffdf2947fed4d34b85110f6006fef9a, type: 3}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 389c8b4e61bfb2343bd014aa2a9c44e6, type: 2}
+  - {fileID: 2100000, guid: f8afb7c8ebb8fe94ab8d7c31f376042d, type: 2}
+  processedResources_values: 88c315000000000083c315000000000089c315000000000086c315000000000036db15000000000038db1500000000003ddb1500000000003edb1500000000003fdb15000000000040db15000000000041db1500000000004edb15000000000065db1500000000002edc1500000000002fdc15000000000038dc15000000000040dc15000000000047dc15000000000048dc15000000000049dc1500000000004adc15000000000055dc1500000000005bdc15000000000040e015000000000041e015000000000042e0150000000000
+  compressedTexturesFolderPath: 
+  sceneReferenceManager: {fileID: 0}

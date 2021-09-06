@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad7aa8e847d223499a8951811c4374a, type: 3}
+  m_Name: GeometrySource
+  m_EditorClassIdentifier: 
+  processedResources_keys:
+  - {fileID: 4300000, guid: 5917c0e93d180a842b61d1ebc62a195c, type: 3}
+  - {fileID: 4300000, guid: beada09c1c3c8ae40af8af0b8219911c, type: 3}
+  - {fileID: 4300002, guid: beada09c1c3c8ae40af8af0b8219911c, type: 3}
+  - {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 2800000, guid: fad9765a35536374695ea4ff22aca373, type: 3}
+  - {fileID: 2800000, guid: 467d68675922fae4b82c3735418e3c27, type: 3}
+  - {fileID: 2800000, guid: 896ae980cb8c6e147be3b213800ede0c, type: 3}
+  - {fileID: 2800000, guid: edb4084a26db53c429f6baabcff86d41, type: 3}
+  - {fileID: 2800000, guid: 5ce4958675a8cb643b09af9ec34a586d, type: 3}
+  - {fileID: 2800000, guid: 7ad67797cd365cc4ba0e4baf4c906326, type: 3}
+  - {fileID: 2100000, guid: ccc50d631d14df84a982c4f4acd00013, type: 2}
+  - {fileID: 2100000, guid: 0d2e8899d46e58e4b877821fd38b6c2f, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 389c8b4e61bfb2343bd014aa2a9c44e6, type: 2}
+  - {fileID: 2100000, guid: f8afb7c8ebb8fe94ab8d7c31f376042d, type: 2}
+  processedResources_values: 0100000000000000020000000000000003000000000000000400000000000000050000000000000006000000000000000700000000000000080000000000000009000000000000000a000000000000000b000000000000000c000000000000000d000000000000000e000000000000000f000000000000001000000000000000110000000000000012000000000000001300000000000000
+  compressedTexturesFolderPath: C:/Users/roder/AppData/LocalLow/DefaultCompany/TeleportUnity/Basis
+    Universal/
+  sceneReferenceManager: {fileID: 11400000, guid: e1855f4f330a6694580ec9c8f1b29bb6,
+    type: 2}

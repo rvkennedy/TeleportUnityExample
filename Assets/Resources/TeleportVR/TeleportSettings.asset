@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 355e47e37b2db9740b56efb4e09cecec, type: 3}
+  m_Name: TeleportSettings
+  m_EditorClassIdentifier: 
+  TagToStream: TeleportStreamable
+  highlightStreamables: 0
+  highlightColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
+  listenPort: 10500
+  discoveryPort: 10600
+  connectionTimeout: 5000
+  clientIP: 
+  moveUpdatesPerSecond: 20
+  casterSettings:
+    requiredLatencyMs: 30
+    detectionSphereRadius: 5
+    detectionSphereBufferDistance: 2
+    throttleKpS: 0
+    isStreamingGeometry: 1
+    geometryTicksPerSecond: 2
+    geometryBufferCutoffSize: 1048576
+    confirmationWaitTime: 15
+    clientDrawDistanceOffset: 0
+    isStreamingVideo: 1
+    isStreamingWebcam: 1
+    captureCubeTextureSize: 1024
+    webcamWidth: 256
+    webcamHeight: 192
+    videoEncodeFrequency: 2
+    isDeferringOutput: 0
+    isCullingCubemaps: 0
+    blocksPerCubeFaceAcross: 2
+    cullQuadIndex: -1
+    targetFPS: 60
+    idrInterval: 0
+    videoCodec: 2
+    rateControlMode: 3
+    averageBitrate: 40000000
+    maxBitrate: 80000000
+    useAutoBitRate: 0
+    vbvBufferSizeInFrames: 3
+    useAsyncEncoding: 1
+    use10BitEncoding: 0
+    useYUV444Decoding: 0
+    useAlphaLayerEncoding: 0
+    usePerspectiveRendering: 0
+    perspectiveWidth: 1024
+    perspectiveHeight: 1024
+    perspectiveFOV: 110
+    useDynamicQuality: 0
+    bandwidthCalculationInterval: 5000
+    isStreamingAudio: 0
+    isReceivingAudio: 0
+    debugStream: 0
+    debugNetworkPackets: 0
+    debugControlPackets: 0
+    calculateChecksums: 0
+    pipeDllOutputToUnity: 0
+    estimatedDecodingFrequency: 10
+    maximumTextureSize: 1024
+    useCompressedTextures: 1
+    qualityLevel: 128
+    compressionLevel: 1
+    willDisableMainCamera: 0
+    defaultSpecularCubemapSize: 16
+    defaultSpecularMips: 3
+    defaultDiffuseCubemapSize: 16
+    defaultLightCubemapSize: 16
+    defaultShadowmapSize: 0
+    controlModel: 2
+  LayersToStream:
+    serializedVersion: 2
+    m_Bits: 119
+  defaultScene: Assets/Scenes/SampleScene.unity
+  additiveScene: 
+  webcam: HD Pro Webcam C920
+  renderMainCamera: 1
