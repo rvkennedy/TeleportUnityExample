@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355e47e37b2db9740b56efb4e09cecec, type: 3}
   m_Name: TeleportSettings
   m_EditorClassIdentifier: 
+  cachePath: E:/Code/TeleportUnity/teleport_cache
   TagToStream: TeleportStreamable
   highlightStreamables: 0
   highlightColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
@@ -32,7 +33,7 @@ MonoBehaviour:
     clientDrawDistanceOffset: 0
     isStreamingVideo: 1
     isStreamingWebcam: 1
-    captureCubeTextureSize: 1024
+    captureCubeTextureSize: 1280
     webcamWidth: 256
     webcamHeight: 192
     videoEncodeFrequency: 2
@@ -43,7 +44,7 @@ MonoBehaviour:
     targetFPS: 60
     idrInterval: 0
     videoCodec: 2
-    rateControlMode: 3
+    rateControlMode: 2
     averageBitrate: 40000000
     maxBitrate: 80000000
     useAutoBitRate: 0
@@ -84,3 +85,4 @@ MonoBehaviour:
   additiveScene: 
   webcam: HD Pro Webcam C920
   renderMainCamera: 1
+  colorSpace: 1

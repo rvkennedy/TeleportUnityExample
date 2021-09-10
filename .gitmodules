@@ -1,0 +1,3 @@
+[submodule "Assets/Teleport"]
+	path = Assets/Teleport
+	url = git@github.com:simul/teleport-unity.git
