@@ -20,6 +20,8 @@ MonoBehaviour:
   discoveryPort: 10600
   connectionTimeout: 5000
   clientIP: 
+  certPath: 
+  privateKeyPath: 
   moveUpdatesPerSecond: 20
   casterSettings:
     requiredLatencyMs: 30
@@ -33,7 +35,7 @@ MonoBehaviour:
     clientDrawDistanceOffset: 0
     isStreamingVideo: 1
     isStreamingWebcam: 1
-    captureCubeTextureSize: 1280
+    captureCubeTextureSize: 512
     webcamWidth: 256
     webcamHeight: 192
     videoEncodeFrequency: 2
