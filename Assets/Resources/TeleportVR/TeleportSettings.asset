@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cachePath: E:/Code/TeleportUnity/teleport_cache
   TagToStream: TeleportStreamable
-  highlightStreamables: 0
+  highlightStreamables: 1
   highlightColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
   listenPort: 10500
   discoveryPort: 10600
@@ -34,7 +34,7 @@ MonoBehaviour:
     confirmationWaitTime: 15
     clientDrawDistanceOffset: 0
     isStreamingVideo: 1
-    isStreamingWebcam: 1
+    isStreamingWebcam: 0
     captureCubeTextureSize: 512
     webcamWidth: 256
     webcamHeight: 192
