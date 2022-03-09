@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class ExampleMotion : MonoBehaviour
 {
+	public enum MotionType
+    {
+		Smooth,
+		Teleportation
+    }
+
+    public MotionType motionType=MotionType.Smooth;
 	teleport.Teleport_Controller[]  controllers;
 	teleport.Teleport_Head head;
 	// Start is called before the first frame update
@@ -18,6 +25,23 @@ public class ExampleMotion : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
+		if (motionType == MotionType.Smooth)
+        {
+			SmoothMotionUpdate();
+        }
+		else
+        {
+			TeleportMotionUpdate();
+        }
+	}
+	// In teleporation motion, the player moves by jumps between positions.
+	// A hand controller is used to point to where you want to go. The new position is highlighted while the Move button is depressed.
+	void TeleportMotionUpdate()
+    {
+
+    }
+	void SmoothMotionUpdate()
+    {
 		Vector3 forward = head.transform.forward;
 		forward.y = 0;
 		Vector3 right = head.transform.right;

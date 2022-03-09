@@ -15,7 +15,9 @@ MonoBehaviour:
   cachePath: E:/Code/TeleportUnity/teleport_cache
   TagToStream: TeleportStreamable
   highlightStreamables: 1
-  highlightColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
+  highlightStreamableColour: {r: 0.5, g: 0.2, b: 1, a: 0.1}
+  highlightNonStreamables: 0
+  highlightNonStreamableColour: {r: 0.5, g: 1, b: 1, a: 0.1}
   listenPort: 10500
   discoveryPort: 10600
   connectionTimeout: 5000
@@ -28,14 +30,16 @@ MonoBehaviour:
     detectionSphereRadius: 5
     detectionSphereBufferDistance: 2
     throttleKpS: 0
+    backgroundMode: 3
+    BackgroundColour: {r: 0, g: 0, b: 0, a: 0}
     isStreamingGeometry: 1
     geometryTicksPerSecond: 2
     geometryBufferCutoffSize: 1048576
     confirmationWaitTime: 15
     clientDrawDistanceOffset: 0
-    isStreamingVideo: 1
-    isStreamingWebcam: 0
-    captureCubeTextureSize: 512
+    StreamVideo: 1
+    StreamWebcam: 0
+    defaultCaptureCubeTextureSize: 512
     webcamWidth: 256
     webcamHeight: 192
     videoEncodeFrequency: 2
@@ -61,7 +65,7 @@ MonoBehaviour:
     perspectiveFOV: 110
     useDynamicQuality: 0
     bandwidthCalculationInterval: 5000
-    isStreamingAudio: 0
+    isStreamingAudio: 1
     isReceivingAudio: 0
     debugStream: 0
     debugNetworkPackets: 0
@@ -83,6 +87,19 @@ MonoBehaviour:
   LayersToStream:
     serializedVersion: 2
     m_Bits: 119
+  inputDefinitions:
+  - name: Trigger
+    inputType: 8
+    controlPath: trigger/value
+  - name: Select
+    inputType: 7
+    controlPath: trigger/value
+  - name: New Input
+    inputType: 9
+    controlPath: //
+  - name: Show Menu
+    inputType: 7
+    controlPath: '*/menu/*/click'
   defaultScene: Assets/Scenes/SampleScene.unity
   additiveScene: 
   webcam: HD Pro Webcam C920
