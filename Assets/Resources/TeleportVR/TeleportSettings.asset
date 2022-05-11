@@ -88,18 +88,27 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 119
   inputDefinitions:
-  - name: Trigger
+  - name: Left Trigger
     inputType: 8
-    controlPath: trigger/value
-  - name: Select
-    inputType: 7
-    controlPath: trigger/value
-  - name: New Input
-    inputType: 9
-    controlPath: //
-  - name: Show Menu
-    inputType: 7
-    controlPath: '*/menu/*/click'
+    controlPath: left/input/trigger/value
+  - name: Right Trigger
+    inputType: 8
+    controlPath: right/input/trigger/value
+  - name: Left Lower Button
+    inputType: 5
+    controlPath: left/input/[a|x]/click
+  - name: Left Thumbstick X
+    inputType: 8
+    controlPath: left/input/thumbstick/x
+  - name: Left Thumbstick Y
+    inputType: 8
+    controlPath: left/input/thumbstick/y
+  - name: Left Trigger Click
+    inputType: 5
+    controlPath: left/input/trigger/value
+  - name: Right Trigger Click
+    inputType: 5
+    controlPath: right/input/trigger/value
   defaultScene: Assets/Scenes/SampleScene.unity
   additiveScene: 
   webcam: HD Pro Webcam C920
